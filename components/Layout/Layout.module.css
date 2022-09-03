@@ -1,0 +1,53 @@
+
+.container{
+    max-width: 900px;
+    height: 100vh;
+    margin: auto;
+    border: 2px solid #fff;
+    padding: 10px;
+}
+
+.content{
+    height: 85%;
+    padding: 20px;
+}
+
+.texto{
+    font-size: 18px;
+}
+
+.topo{
+    width: 100%;
+    display: flex;
+}
+
+.avatar{
+    background-color: red;
+    width: 25%;
+}
+
+.areaMenu{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.areaMenu ul{
+    display: flex;
+}
+
+.areaMenu li{
+    list-style: none;
+    padding: 0px 25px 0px;
+}
+
+
+.rodape{
+background-color: #000;
+bottom: 0;
+left: 0;
+right: 0;
+
+}

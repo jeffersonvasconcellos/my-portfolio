@@ -1,7 +1,7 @@
 const Sobre = () => {
     return(
         <div>
-            Pagina sobre é aqui...
+            <h2>Pagina sobre é aqui</h2>
         </div>
     );
 }
